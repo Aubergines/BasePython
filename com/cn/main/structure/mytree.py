@@ -2,11 +2,11 @@
 #树
 
 #树的基本构造
-Tree=[2,3,[58,6,[5]]]
+#Tree=[2,3,[58,6,[5]]]
 #print Tree[0]
 #print Tree[1]
 #print Tree[2]
-Tree2=Tree[2]
+#Tree2=Tree[2]
 #print Tree2[0]
 
 #二叉树的构造
